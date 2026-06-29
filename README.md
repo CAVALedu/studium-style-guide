@@ -34,6 +34,7 @@ Roboto Font can be used when space is tight as it features a narrower character 
 
 Hero Blue '#108cb1'
 
+
 Taupe '#c7b1a4'
 
 Navy '#003245'
@@ -47,6 +48,7 @@ Sky Blue '78b3f1'
 
 Burnt Orange 'f85f48'
 
+![](../Studium Colours/Burnt Orange f85f48.png)
 
 ## Logo variations
 Several logo variations are provided for different purposes. Please contact oersupport@caval.edu.au if you require a different format of the logo.

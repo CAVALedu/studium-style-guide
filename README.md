@@ -9,6 +9,7 @@ Studiuim uses the following fonts
 
 Font links: 
 Lora: https://fonts.google.com/specimen/Lora
+
 Montserrat: https://fonts.google.com/specimen/Montserrat
 
 Specifics applied:

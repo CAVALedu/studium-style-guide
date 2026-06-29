@@ -34,10 +34,16 @@ Roboto Font can be used when space is tight as it features a narrower character 
 
 Hero Blue '#108cb1'
 
+![Hero Blue](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Hero%20Blue%20108cb1.png?raw=true)
 
 Taupe '#c7b1a4'
 
+![Taupe](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Taupe%20c7b1a4.png?raw=true)
+
+
 Navy '#003245'
+
+![Navy](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Navy%20003245.png?raw=true)
 
 ### Secondary Colours
 3 Secondary Colours are used:

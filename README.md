@@ -44,11 +44,15 @@ Navy '#003245'
 
 Green '5eb769'
 
+![Green](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Green%205eb769.png?raw=true)
+
 Sky Blue '78b3f1'
+
+![Sky Blue](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Sky%20Blue%2078b3f1.png?raw=true)
 
 Burnt Orange 'f85f48'
 
-![](../Studium Colours/Burnt Orange f85f48.png)
+![Burnt Orange](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Burnt%20Orange%20f85f48.png?raw=true)
 
 ## Logo variations
 Several logo variations are provided for different purposes. Please contact oersupport@caval.edu.au if you require a different format of the logo.

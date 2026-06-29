@@ -13,6 +13,7 @@ Montserrat: https://fonts.google.com/specimen/Montserrat
 
 Specifics applied:
 | Heading Type | Description |
+| --- | --- |
 | H1 | Main page headings, Lora Bold, size 48 |
 | H2 | Novelty headings, Lora Bold, size 24 | 
 | H3 | Subheadings, Lora Bold, size 40 |
@@ -28,8 +29,23 @@ Roboto Font can be used when space is tight as it features a narrower character 
 
 ## Colour
 
-3 Primary Colours are used for 
+### Primary Colours 
+3 Primary Colours are used
 
+Hero Blue '#108cb1'
+
+Taupe '#c7b1a4'
+
+Navy '#003245'
+
+### Secondary Colours
+3 Secondary Colours are used:
+
+Green '5eb769'
+
+Sky Blue '78b3f1'
+
+Burnt Orange 'f85f48'
 
 
 ## Logo variations

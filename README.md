@@ -63,7 +63,29 @@ Burnt Orange 'f85f48'
 
 ![Burnt Orange](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Colours/Burnt%20Orange%20f85f48.png?raw=true)
 
-## Logo variations
+## Logos
+
+### Studium Horizontal
+
+![Studium Horizontal](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Horizontal%20-%20By%20Caval%20Main@4x.png?raw=true)
+
+### Studium By CAVAL - Horizontal
+
+![Studium Horizontal - By CAVAL](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Horizontal%20-%20Navy%20By%20Caval@4x.png?raw=true) 
+
+### Studium - Round
+
+![Studium - Round](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Social%20Profile%20Round%201%20Main@4x.png?raw=true)
+
+### Studium - Horizontal
+
+![Studium - Horizontal](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Vertical%20By%20Caval%20-%20Main@4x.png?raw=true) 
+
+### Studium by CAVAL - Horizontal
+
+![Studium by CAVAL - Horizontal](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Vertical%20By%20Caval%20-%20Main@4x.png?raw=true) 
+
+### Logo variations
 Several logo variations are provided for different purposes. Please contact oersupport@caval.edu.au if you require a different format of the logo.
 
 Please consider the intent and context in which you use these artefacts, and be mindful of their use.

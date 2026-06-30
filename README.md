@@ -77,11 +77,11 @@ Burnt Orange 'f85f48'
 
 ![Studium - Round](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Social%20Profile%20Round%201%20Main@4x.png?raw=true)
 
-### Studium - Horizontal
+### Studium - Vertical
 
-![Studium - Horizontal](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Vertical%20By%20Caval%20-%20Main@4x.png?raw=true) 
+![Studium - Horizontal](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Vertical%20-%20Main%404x.png) 
 
-### Studium by CAVAL - Horizontal
+### Studium by CAVAL - Vertical
 
 ![Studium by CAVAL - Horizontal](https://github.com/CAVALedu/studium-style-guide/blob/main/Studium%20Logos/PNG/Studium%20-%20Vertical%20By%20Caval%20-%20Main@4x.png?raw=true) 
 
